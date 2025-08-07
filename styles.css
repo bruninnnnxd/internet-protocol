@@ -1,0 +1,10 @@
+body {
+    color: rgb(255, 255, 255);
+    background: linear-gradient(90deg, rgb(0, 0, 0) ,rgb(0, 1, 12));
+    font-family: 'Space Mono';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
